@@ -1,0 +1,9 @@
+.App {
+  text-align: center;
+}
+.col-4{
+  border: 2px solid salmon;
+  height: 100vh;
+  min-width: 360px;
+  overflow: auto;
+}
